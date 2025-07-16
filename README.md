@@ -2,6 +2,7 @@
 -<h1 align="center">Hi 👋, I'm Zelin</h1>
 <h3 align="center">A passionate business analyst from China</h3>
 - 🔭 I’m currently working on developing end-to-end business analysis solutions, from ETL with SQL and Python to visualization in Power BI.
+
 - 🌱 I’m currently learning advanced applications of Industry 4.0, Machine Learning, and Operations Management as part of my MSc in Industry Transformation Management.**
 
 - 👯 I’m looking to collaborate on **projects involving data analytics, supply chain optimization, or applying machine learning to solve business problems.**
